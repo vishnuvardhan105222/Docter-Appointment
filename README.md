@@ -42,4 +42,7 @@ npm install
 
 # Step 3: Start the development server
 npm run dev
->>>>>>> c110f4a (work)
+---
+
+## LIVE LINK OF MY PROJECT
+(https://doctersappointment.netlify.app/)
